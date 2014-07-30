@@ -43,6 +43,7 @@ setup(
         'colconv = putrusinu.colconv:main',
         'repeat = putrusinu.repeat:main',
         'counter = putrusinu.counter:main',
+        'unique = putrusinu.unique:main',
       ]
     }
 )
